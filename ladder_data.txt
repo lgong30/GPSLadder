@@ -1,0 +1,14 @@
+# Each line contains a ladder step (from the top to the bottom)
+# width height
+# Note that, here "height" and "width" is just the height and width of
+# a single step (i.e., relative ones)
+
+1 1
+2 2
+3 1
+1 2
+5 1
+2 1
+7 1
+3 3
+2 1
